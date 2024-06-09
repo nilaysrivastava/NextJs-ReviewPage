@@ -24,29 +24,6 @@ The Feedback Form project revolutionizes the way customer reviews are gathered a
 <img width=240 src="https://github.com/nilaysrivastava/NextJs-ReviewPage/assets/139038819/4635f8c2-fc99-4622-8f9f-7f21836166f4">
 <img width=240 src="https://github.com/nilaysrivastava/ClientTrack-Dashboard/assets/139038819/78e857fb-6b08-4cb1-9b73-b515050f6b07">
 
-## Installation
-
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/your-username/feedback-form.git
-    ```
-2. **Navigate to the project directory:**
-    ```sh
-    cd feedback-form
-    ```
-3. **Install the dependencies:**
-    ```sh
-    npm install
-    ```
-4. **Start the development server:**
-    ```sh
-    npm run dev
-    ```
-
-## Usage
-
-Once the development server is running, you can access the Feedback Form application in your web browser at `http://localhost:3000`.
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or issues, feel free to open an issue or create a pull request. Please ensure your code follows the project's coding standards and conventions.
